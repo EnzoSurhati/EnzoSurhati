@@ -99,12 +99,7 @@ const enzo = {
 <!-- GITHUB STATS -->
 ## `$ git stats`
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EnzoSurhati&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=C9A84C&icon_color=C9A84C&text_color=f0ead6&border_color=222222&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoSurhati&layout=compact&theme=dark&bg_color=0a0a0a&title_color=C9A84C&text_color=f0ead6&border_color=222222&hide_border=false&langs_count=6" />
-
-</div>
 
 <div align="center">
 
