@@ -10,7 +10,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Turning+ideas+into+products;Full-Stack+%7C+React+%7C+Node+%7C+PostgreSQL;From+leading+teams+to+building+them)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=700&height=140&lines=Turning+ideas+into+products;Full-Stack+%7C+React+%7C+Node+%7C+PostgreSQL;From+leading+teams+to+building+them)](https://git.io/typing-svg)
 
 </div>
 
