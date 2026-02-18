@@ -61,7 +61,7 @@ const enzo = {
 ---
 
 <!-- PROJECTS -->
-## `$ git log --oneline --projects`
+## `$ git log --projects`
 
 <table>
 <tr>
@@ -118,7 +118,7 @@ const enzo = {
 ## `$ history | grep career`
 
 ```
-2025-present  Be Well Medical Supply    → Software Engineer & Project Manager
+2025-present  PetPads.net    → Software Engineer & Project Manager
 2024-2025     Fullstack Academy         → Software Engineering Certificate 🎓
 2018-2025     Be Well Medical Supply    → Customer Service Lead (team of 24)
 2021-2024     CUNY Brooklyn College     → Computer Science (68 credits)
