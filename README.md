@@ -80,7 +80,7 @@ const enzo = {
 </td>
 <td width="50%">
 
-### 🐾 PetsWorld.com
+### 🐾 PetPeds.net
 > Re-architected a **$1M+** e-commerce platform for pet supplies
 
 **Role:** Project Manager & Software Engineer
@@ -118,7 +118,7 @@ const enzo = {
 ## `$ history | grep career`
 
 ```
-2025-present  PetPads.net    → Software Engineer & Project Manager
+2025-present  PetWorld                  → Software Engineer & Project Manager
 2024-2025     Fullstack Academy         → Software Engineering Certificate 🎓
 2018-2025     Be Well Medical Supply    → Customer Service Lead (team of 24)
 2021-2024     CUNY Brooklyn College     → Computer Science (68 credits)
