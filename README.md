@@ -24,9 +24,9 @@ const enzo = {
   location:    "📍 New York City",
   role:        "Full-Stack Software Developer",
   education:   ["Oregon State University — B.S. CS (Junior, 2028)",
-                 "Fullstack Academy — Software Engineering Certificate"],
-  currentWork: "Be Well Medical Supply — Shopify Engineer & Project Manager",
-  stack:       ["React", "Node.js", "Express", "PostgreSQL", "Tailwind", "Liquid"],
+                 "Fullstack Academy — Full-stack Software Engineering Certificate"],
+  currentWork: "Be Well Medical Supply — Manager", "PetsWorld - Software Engineer and Project Manager",
+  stack:       ["React", "Node.js", "Express", "PostgreSQL", "Tailwind", "Liquid", "Docker"],
   learning:    "Python 🐍",
   background:  "7 years leading teams → now building the tech behind them",
   coffee:      true,
@@ -67,7 +67,7 @@ const enzo = {
 <tr>
 <td width="50%">
 
-### 🎵 Hi-Fi Records
+### 🎵 Hi-Fi Records (Capstone)
 > Full-stack e-commerce platform for sample album sales
 
 **Role:** Lead Engineer & Team Lead
