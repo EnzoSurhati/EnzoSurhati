@@ -35,26 +35,28 @@ const enzo = {
 
 ---
 
-<!-- TECH STACK -->
 ## `$ tech --stack`
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=C9A84C)
 ![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=C9A84C)
+![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=C9A84C)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=C9A84C)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=C9A84C)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=C9A84C)
+
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=C9A84C)
 ![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=C9A84C)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=C9A84C)
-![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=C9A84C)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=C9A84C)
-![Shopify](https://img.shields.io/badge/Shopify-0a0a0a?style=for-the-badge&logo=shopify&logoColor=C9A84C)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=C9A84C)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=C9A84C)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=C9A84C)
+![Python](https://img.shields.io/badge/Python_(learning)-0a0a0a?style=for-the-badge&logo=python&logoColor=C9A84C)
+
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=C9A84C)
+![Shopify](https://img.shields.io/badge/Shopify-0a0a0a?style=for-the-badge&logo=shopify&logoColor=C9A84C)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=C9A84C)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=C9A84C)
 ![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=C9A84C)
-![Python](https://img.shields.io/badge/Python_(learning)-0a0a0a?style=for-the-badge&logo=python&logoColor=C9A84C)
 
 </div>
 
