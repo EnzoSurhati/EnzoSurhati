@@ -99,15 +99,11 @@ const enzo = {
 <!-- GITHUB STATS -->
 ## `$ git stats`
 
-
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EnzoSurhati&theme=dark&background=0a0a0a&border=222222&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=f0ead6&dates=5a5a5a&currStreakNum=f0ead6&sideNums=f0ead6)
+![GitHub Streak](https://streak-stats.demolab.com?user=EnzoSurhati&theme=dark&background=0a0a0a&border=222222&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=f0ead6&dates=5a5a5a&currStreakNum=f0ead6&sideNums=f0ead6&cache=1)
 
 </div>
-
----
 
 <!-- TIMELINE -->
 ## `$ history | grep career`
